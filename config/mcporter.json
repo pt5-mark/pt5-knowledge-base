@@ -2,9 +2,6 @@
   "mcpServers": {
     "exa": {
       "baseUrl": "https://mcp.exa.ai/mcp"
-    },
-    "douyin": {
-      "baseUrl": "http://localhost:18070/mcp"
     }
   },
   "imports": []

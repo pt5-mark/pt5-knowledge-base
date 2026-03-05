@@ -1,21 +1,16 @@
 # USER.md - About Your Human
 
-*Learn about the person you're helping. Update this as you go.*
+_Learn about the person you're helping. Update this as you go._
 
-- **Name:** *(waiting to be filled)*
-- **What to call them:** Boss
-- **Pronouns:** *(optional)*
-- **Timezone:** UTC+8 (Hong Kong)
-- **Company:** PT5 (Hong Kong)
+- **Name:**
+- **What to call them:**
+- **Pronouns:** _(optional)_
+- **Timezone:**
+- **Notes:**
 
 ## Context
 
-- Personal + work assistant
-- Trusted with sensitive info (APIs, passwords)
-- WhatsApp: +8613962913045
-- Also uses: +8618929873972
-
-*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
 
 ---
 
