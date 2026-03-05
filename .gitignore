@@ -1,0 +1,62 @@
+# Sensitive & Credentials
+.env
+.env.local
+*.pem
+*.key
+config/secrets/
+credentials/
+.gpg/
+
+# Temporary & Cache
+*.tmp
+*.temp
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.node_modules/
+.clawhub/lock.json
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+*/venv/
+*/.env/
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+log/
+
+# Large Media (keep metadata, exclude large files)
+*.mp4
+*.mov
+*.avi
+*.mp3
+*.wav
+*.zip
+*.tar.gz
+
+# Obsidian specific (if using sync)
+.obsidian/workspace.json
+.obsidian/cache
+
+# Agent Reach environments (separate git repos)
+agent-reach/
+agent-reach-env/
+
+# Evolver (separate git repo)
+evolver/
