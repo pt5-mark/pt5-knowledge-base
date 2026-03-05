@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "browser-automation": {
+      "version": "1.0.1",
+      "installedAt": 1770941292105
+    },
+    "agent-browser-clawdbot": {
+      "version": "0.1.0",
+      "installedAt": 1770941307765
+    },
+    "brave-search": {
+      "version": "1.0.1",
+      "installedAt": 1770942527533
+    },
+    "gopass": {
+      "version": "1.0.0",
+      "installedAt": 1770991169016
+    },
+    "neural-memory": {
+      "version": "1.0.0",
+      "installedAt": 1770994737518
+    },
+    "vision-sandbox": {
+      "version": "1.1.0",
+      "installedAt": 1771294504243
+    },
+    "image2prompt": {
+      "version": "1.0.0",
+      "installedAt": 1771295045932
+    },
+    "serpapi": {
+      "version": "1.0.0",
+      "installedAt": 1771295076915
+    },
+    "evomap": {
+      "version": "1.0.0",
+      "installedAt": 1771583066302
+    }
+  }
+}
